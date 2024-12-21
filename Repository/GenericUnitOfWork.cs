@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Repository
 {
-    internal class GenericUnitOfWork
+    public class GenericUnitOfWork
     {
         DbContext context;
 
